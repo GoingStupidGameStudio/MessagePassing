@@ -30,7 +30,7 @@ int main()
 //
 //    auto g = keys.
 //            filter([](int key){return std::tolower(key) == 'g';});
-//
+
 
     auto q = keys.
             filter([](int key){return std::tolower(key) == 'q';});
